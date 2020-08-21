@@ -1,4 +1,4 @@
-# kindainternship
+# studyshare
 
 A new Flutter application.
 
